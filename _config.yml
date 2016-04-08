@@ -78,7 +78,7 @@ theme: apollo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:acwong00/acwong00.github.io.git
+  repo: git@github.com:liuxingchen1989/liuxingchen1989.github.io.git
   
 addlink:
   before_text: 本文地址
